@@ -1,3 +1,3 @@
 ### hiiii
 
-I'm Ally! My pronouns are she/her and I'm a Computer Science student at OSU. I make a lot of different things, ranging from Minecraft plugins, to websites, to games!
+I'm Ally! My pronouns are she/her and I'm Software Engineer at AWS, a new grad CSE major from OSU. I love to make silly little projects!
